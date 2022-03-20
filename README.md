@@ -30,7 +30,7 @@
 
 </br>
 <h2> 🧬흐름도 </h2>
-<!-- <img src="https://github.com/codestates/ssokbeer/blob/main/ssokbeer_stack_architecture.png?raw=true" width = "800 " height = "600"/> -->
+<img src="https://github.com/StrummingDown/dongnebook/blob/dev/flow.png" width = "800 " height = "600"/> 
 
 
 </br>
